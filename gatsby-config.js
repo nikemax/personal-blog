@@ -36,8 +36,8 @@ if (!spaceId || !accessToken) {
 
 module.exports = {
   siteMetadata: {
-    title: "Gatsby Contentful Starter",
-    description: "Official Contentful Gatsby Starter",
+    title: "Maksym Melnychuk | Personal blog",
+    description: "Персональний блог Максима Мельничука",
   },
   plugins: [
     "gatsby-transformer-remark",
